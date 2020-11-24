@@ -1,0 +1,12 @@
+las funciones que no devuelven ningún valor tienen void en su declaración.
+Ejemplo:
+		public void setMemoria(double value){
+		memoria = value;
+		}
+
+las funciones que devuelven valores no tienen void en su declaración.
+Ejemplo:
+		public double getMemoria (){
+		return memoria;
+		}
+	
